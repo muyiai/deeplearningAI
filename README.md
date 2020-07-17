@@ -8,8 +8,6 @@
 * **You Can download them and practice offline**
 * **All slide added**
 
-## Pre Trained Models
-**Github only allows to share file less than 50mb. There is some pre-trained model like resnet etc. Suggest you to download them from My [Google Drive](https://drive.google.com/open?id=1_HDHpsm_bIOkdo7aVkOcLsYxejilRujv) or download them from online (as they are so popular you can easily get them)**
 
 ## Video Link
 * **[Deeplearning.ai youtube channel](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)**
@@ -22,8 +20,10 @@
 
 * **[Course 04 video link](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)**
 
+* **[Course 05 video link](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)**
+
+
 ## Conclusion
 #### Everyone welcome to create pull request if new resource update or if i miss anything :)
 #### As coursera suggest to not to share solution online. So, request you not to share solution for this notebook.
-#### This file source is from https://github.com/shahariarrabby/deeplearning.ai.git
 ### Thank You
